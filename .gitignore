@@ -1,0 +1,33 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Exclude maven wrapper
+!/.mvn/wrapper/maven-wrapper.jar
+### Java template
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.idea/inspectionProfiles/
+.idea/workspace.xml
+log.txt
+src/main/resources/
+src/test/
