@@ -13,8 +13,6 @@ buildNumber.properties
 # Exclude maven wrapper
 !/.mvn/wrapper/maven-wrapper.jar
 ### Java template
-*.class
-
 # BlueJ files
 *.ctxt
 
